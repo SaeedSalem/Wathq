@@ -13,7 +13,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "SaeedSalem\\Wathq\\ServiceProvider"
+                "SaeedSalem\\Wathq\\WathqServiceProvider"
             ]
         }
     }
