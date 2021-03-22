@@ -1,0 +1,20 @@
+{
+    "name": "saeedsalem/wathq",
+    "description": "Connecting with Wathiq service provided by Thiqa Company",
+    "authors": [
+        {
+            "name": "Saeed Salem",
+            "email": "saeed2700@hotmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.3|^8.0"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "SaeedSalem\\Wathq\\ServiceProvider"
+            ]
+        }
+    }
+}
