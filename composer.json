@@ -7,6 +7,8 @@
             "email": "saeed2700@hotmail.com"
         }
     ],
+    "type": "library",
+    "license": "MIT",
     "require": {
         "php": "^7.3|^8.0"
     },
